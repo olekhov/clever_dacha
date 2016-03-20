@@ -1,0 +1,6 @@
+#!env python
+
+pg_db   = "clever_dacha"
+pg_host = "vps.greenone.ru"
+pg_user = "cd_user"
+pg_pass = "doomgiver"
