@@ -1,0 +1,10 @@
+#!env python
+
+pg_db   = ""
+pg_host = ""
+pg_user = ""
+pg_pass = ""
+
+api_key = ""
+pi_mac  = ""
+
